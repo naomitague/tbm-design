@@ -1,3 +1,9 @@
+# Obsidian file 
+.obsidian/workspace
+.obsidian/cache
+.DS_store
+*.log
+
 # History files
 .Rhistory
 .Rapp.history
