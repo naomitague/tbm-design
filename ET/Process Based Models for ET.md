@@ -10,7 +10,7 @@ summary: >
 Process based models for evapotranspiration (ET) simulate the physical processes governing water and energy exchanges between the land surface and the atmosphere. While physics of evaporation are well-understood; estimating the variables involved always require simplifications - the appropriate simplification depends on application (location, scale, time)
 Transpiration includes additional complexities because plants influence available energy (e.g by leaf color, vertical and horizontal distribution(), and water (through roots)- and directly modulate 
 et through stomatal control
-## Key Characteristics
+## Key Controls
 - **Atmospheric Controls:**  
 	  * Energy -  balance between incoming solar radiation, sensible and latent heat fluxes, and ground heat flux.
 	  * Diffusion - vapor conductance (atmospheric conductance) depends on boundary layer perperties at the leaf surface (usually modelled by wind speeds, vapor pressure deficit)

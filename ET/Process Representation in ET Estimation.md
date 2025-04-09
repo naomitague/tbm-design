@@ -6,16 +6,8 @@ aliases: [ET Process Representation]
 summary: >
   This note discusses why capturing all relevant processes—such as snowmelt, forest gaps, disturbances, and litter—is crucial for accurate ET estimates, and how these processes can be represented in models or empirical methods.
 ---
-## Overview
-Evapotranspiration (ET) is influenced by a wide array of processes, ranging from snowmelt dynamics in mountain environments to the effects of forest gaps and litter on soil moisture retention. Whether you are using a physically-based process model, a statistical/empirical approach, or field sampling, it is essential to ensure that all processes relevant to your specific system are **adequately represented**.
 
-## What Does "Representation" Mean?
-- **Model Inclusion:**  
-  In a physically-based model, representation involves explicit equations or modules accounting for phenomena such as snow accumulation/melt, canopy interception, litter layers, and vegetation disturbance.
-- **Statistical Training:**  
-  For empirical or machine learning models, representation means that training data should capture these processes—e.g., including measurements or variables that reflect forest structure, snow cover, or disturbance history.
-- **Sampling and Observations:**  
-  Field campaigns or observational networks must account for the variability introduced by these processes. This might involve sampling across different forest gaps, disturbed vs. undisturbed stands, and seasonal snow conditions.
+
 
 ## Key Processes Requiring Representation
 
