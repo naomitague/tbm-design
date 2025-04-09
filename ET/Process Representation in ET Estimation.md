@@ -9,7 +9,7 @@ summary: >
 
 
 
-## Key Processes Requiring Representation
+## Key Controlling Processes (link to page on complexities)
 
 1. **Snowmelt Dynamics**  
    - **Why It Matters:**  
@@ -35,21 +35,7 @@ summary: >
    - **Modeling Approaches:**  
      Detailed soil modules or litter parameterizations can be included in physically-based models. Empirical approaches often rely on soil moisture measurements that reflect litter’s buffering effect.
 
-## Why Is Process Representation Critical?
-- **Accuracy and Reliability:**  
-  Omitting a key process can lead to systematic bias in ET estimates, particularly in environments where that process is dominant.
-- **Scale Appropriateness:**  
-  Different processes may be more or less critical depending on your spatial and temporal scale. For instance, snowmelt is crucial in seasonal water-limited systems, while canopy structure may dominate ET dynamics in tropical forests.
-- **Management and Policy Implications:**  
-  If a model or sampling strategy fails to capture critical processes (e.g., post-disturbance recovery), subsequent decisions about water resources or ecosystem management could be misguided.
 
-## Strategies for Ensuring Representation
-- **Comprehensive Data Collection:**  
-  Collect data on snow depth, forest structure, litter thickness, and disturbance history to feed into models or empirical frameworks.
-- **Model Calibration and Validation:**  
-  Use site-specific or process-specific observations to validate that the model accurately represents snowmelt, canopy gaps, and other relevant factors.
-- **Iterative Model Development:**  
-  Refine or expand the model’s process modules as new data highlight processes that were previously underestimated or omitted.
 
 ## Related Notes
 - [Hydrologic Perspective of ET](Hydrologic_Perspective_of_ET.md)
