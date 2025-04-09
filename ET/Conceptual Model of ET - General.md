@@ -23,7 +23,7 @@ Evapotranspiration (definitions) - LLM -
 - **Energy  Drivers:**  
   ET is driven by the energy available at the land surface. The balance between incoming solar radiation and the energy used for heating the surface, along with latent heat flux (associated with water evaporation and plant transpiration), governs the rate of ET.
 - **Diffusion Drivers**
-    Because ET is a diffusion process, vapor pressure deficits in the air impact ET rates; mixing of air at the evaporating surface (driven by wind and surface roughness) as well as boundary layer atmopsheric conditions impact diffuse rates
+    Because ET is a diffusion process, vapor pressure deficit in the air impact ET rates; mixing of air at the evaporating surface (driven by wind and surface roughness) as well as boundary layer atmopsheric conditions impact diffuse rates
 
 - **Water Availability Drivers:**  
   Precipitation is a primary source of water for ET however storage in soils and shallow groundwater systems allow precipitation to be available for ET for longer periods.  Water also moves laterally (by natural and human processes) which allow access to non-local preciptation
