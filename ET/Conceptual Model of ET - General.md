@@ -37,4 +37,3 @@ Simple models (#Budyko as conceptual) summarize water availability as simply pre
 Complexity in conceptual model is needed to capture finer scale space-time variation in ET and/or understand drivers of change (includng  changing land surface, vegetation, climate, storage),...
 
 
-## T

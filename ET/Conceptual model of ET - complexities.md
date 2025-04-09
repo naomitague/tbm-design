@@ -1,6 +1,11 @@
-# Timing of Precipitation
+## Atmosphere
+Timing of Precipitation
 - **Seasonal and Event-Based Influences:**  
-  The timing of precipitation as well as magnitdue impact ET because a temporal disconnect between precipitation inputs and energy drivers reduce ET; storage smooths precipitation inputs thus  the impact of precipitation timing on ET is mediated by storage
+  The timing of precipitation as well as magnitdue impact disconnect between energy-water availability (as mediated by storage), can also impact interception loss and infiltration
+Radiation availablity
+	- topographic complexity
+	- diffuse/direct
+	- clouds and fog
 
 # Storage
 * storage shapes ET at all space/time scales (papers)
@@ -10,7 +15,7 @@
 * plants play both active and passive roles in determining ET
 * plant shape (height, leaf architectures) change diffuse characterisistics
 * plants through roots system access storage often beyond their canopy area and including sometimes deep groundwater storage from non-local areas)
-* plant leaves deermine the solar radiation, vpd and other drivers of ET at the leaf surface
+* plant leaves determine the solar radiation, vpd and other drivers of ET at the leaf surface
 * plants stomates active control access to stored water; 
 * plant phenology changes water/energy above
 * at longer time scales plants change their archtecture (including height, roots, stomatal function) which alters ET; at even longer time scales adaption, species change, disturbacne also influence these
@@ -23,7 +28,7 @@
 
 # Navigation the complexities
 
-Whether any of these are important - how they are estimates/measured - depends on time-space scale, extent/period - we don't have a perfect answer!
+Whether any of these are important - how they are estimates/measured - depends on time-space scale, extent/period 
 So you get there by 
 a) integrated models
 

@@ -7,13 +7,21 @@ summary: >
   This note provides an overview of process‐based models for evapotranspiration (ET), emphasizing their energy balance focus, key inputs, limitations, and examples such as VIC and RHESSys.
 ---
 ## Overview
-Process based models for evapotranspiration (ET) simulate the physical processes governing water and energy exchanges between the land surface and the atmosphere. These models typically focus on the energy balance and mass conservation, integrating various physical processes to predict ET under diverse environmental conditions.
-
+Process based models for evapotranspiration (ET) simulate the physical processes governing water and energy exchanges between the land surface and the atmosphere. While physics of evaporation are well-understood; estimating the variables involved always require simplifications - the appropriate simplification depends on application (location, scale, time)
+Transpiration includes additional complexities because plants influence available energy (e.g by leaf color, vertical and horizontal distribution(), and water (through roots)- and directly modulate 
+et through stomatal control
 ## Key Characteristics
-- **Energy Balance Focus:**  
-  Most process based models simulate ET by calculating the balance between incoming solar radiation, sensible and latent heat fluxes, and ground heat flux.
-- **Physical Processes:**  
-  They incorporate processes such as soil moisture dynamics, canopy resistance, stomatal conductance, and evaporation from bare soils.
+- **Atmospheric Controls:**  
+	  * Energy -  balance between incoming solar radiation, sensible and latent heat fluxes, and ground heat flux.
+	  * Diffusion - vapor conductance (atmospheric conductance) depends on boundary layer perperties at the leaf surface (usually modelled by wind speeds, vapor pressure deficit)
+- **Water availability:** 
+	- Water availability depends on inputs, storage and loss (both through prior ET and drainage)
+	- Hydrologic models and measurements are used to define this (link to hydrologic cycle model)
+	
+	
+  
+	- 
+
 
 ## Key Inputs
 - **Meteorological Data:**  
