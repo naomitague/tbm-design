@@ -3,9 +3,9 @@
 Available 
 [[pathway-template]]. (don't follow but for reference)
 
-[[Conceptual Model of ET - General]]
+[[Interface - ET Western US]]
 
-[[Conceptual Models of Fire-General]]
+[[Interface-Fire Western US]]
 
 
 
