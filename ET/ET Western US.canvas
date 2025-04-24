@@ -5,7 +5,7 @@
 		{"id":"42de12a3826257aa","type":"file","file":"Conceptual Diagram ET simple.png","x":-59,"y":1160,"width":339,"height":400},
 		{"id":"c810edecf3a28e20","type":"text","text":"Basic conceptual model for how climate will influence ET","x":-360,"y":1160,"width":285,"height":80},
 		{"id":"4b756a9ceca73f0c","type":"text","text":"I want a prediction for how ET will change in the Sierra Nevada, CA .... ","x":-254,"y":1720,"width":394,"height":80,"color":"4"},
-		{"id":"22949d4d0339a5a4","type":"file","file":"Empirical Models for ET – The Budyko Curve.md","x":5,"y":2000,"width":400,"height":400},
+		{"id":"22949d4d0339a5a4","type":"file","file":"Budyko Curve.md","x":5,"y":2000,"width":400,"height":400},
 		{"id":"13c5bf2283f1b36e","type":"text","text":"Which model would you use?","x":-204,"y":2560,"width":279,"height":60,"color":"4"},
 		{"id":"25dc7cc0eae4dcac","type":"text","text":"This depends on: \n- Model evaluation using observations\n- Process representation/training context (i.e., is the process explicitly representation necessary\n\nBefore moving forward, model result from other locations might be available, or would you prefer to run the model yourself?","x":-237,"y":2700,"width":397,"height":280},
 		{"id":"bd5149c2307dd59e","type":"text","text":"I'm not sure, but to start I'd like to see my options","x":-163,"y":3060,"width":250,"height":60,"color":"4"},
@@ -52,11 +52,11 @@
 		{"id":"b27d3d719d8abe28","type":"text","text":"Global","x":30,"y":780,"width":250,"height":60},
 		{"id":"86b57b041e3f4dae","type":"text","text":"Annual, Current/Future, Hillslope, California Sierra Nevada","x":-450,"y":900,"width":405,"height":60,"color":"4"},
 		{"id":"dfe126dcdca67103","type":"text","text":"","x":595,"y":1620,"width":250,"height":60},
-		{"id":"174eaa9866699be1","type":"file","file":"Process Based Models for ET.md","x":-680,"y":1960,"width":320,"height":400,"color":"4"},
-		{"id":"4a3d11ea98d44f67","type":"file","file":"Calibrating, Evaluation Process-Based models.md","x":-1157,"y":1603,"width":400,"height":400},
-		{"id":"4e0912b5df8152c0","x":-1280,"y":2160,"width":400,"height":400,"type":"file","file":"Process-based Hydrologic models.md"},
-		{"id":"01410816a80b4872","x":560,"y":4160,"width":400,"height":400,"type":"file","file":"Conceptual Model of ET - General.md"},
-		{"id":"6ac45dc64429aae4","x":520,"y":4605,"width":400,"height":451,"type":"file","file":"Conceptual model of ET - complexities.md"}
+		{"id":"174eaa9866699be1","type":"file","file":"Numerical Models for ET.md","x":-680,"y":1960,"width":320,"height":400,"color":"4"},
+		{"id":"4a3d11ea98d44f67","type":"file","file":"Calibrating, Evaluation Process-Based Hydrologic models.md","x":-1157,"y":1603,"width":400,"height":400},
+		{"id":"4e0912b5df8152c0","type":"file","file":"Processbased Hydrologic models.md","x":-1280,"y":2160,"width":400,"height":400},
+		{"id":"01410816a80b4872","type":"file","file":"Conceptual Model of ET - General.md","x":560,"y":4160,"width":400,"height":400},
+		{"id":"6ac45dc64429aae4","type":"file","file":"Conceptual model of ET - complexities.md","x":520,"y":4605,"width":400,"height":451}
 	],
 	"edges":[
 		{"id":"6967f646a9356c40","fromNode":"4b2de3abcf6f1a12","fromSide":"right","toNode":"86b57b041e3f4dae","toSide":"top","color":"4"},

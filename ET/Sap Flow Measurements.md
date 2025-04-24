@@ -9,7 +9,7 @@ summary: >
 ## Overview
 Sap flow measurements quantify the rate at which water moves through a plant’s vascular system (primarily the xylem). By tracking sap flow, researchers can infer transpiration rates at the individual plant level and, with proper scaling, estimate stand or ecosystem-level water use.
 
-## How It Works
+## Techniques
 - **Thermal Techniques (e.g., Heat Dissipation, Heat Balance):**  
   Sensors are inserted into the sapwood to measure the temperature difference between a heated probe and a reference probe. The rate of heat dissipation changes with sap flow velocity.
 - **Granier Method:**  
@@ -56,13 +56,6 @@ Sap flow measurements quantify the rate at which water moves through a plant’s
 - **Data Complexity:**  
   Analyzing and interpreting sap flow data can be complex, especially when factoring in plant functional types, stand structure, and climatic variability.
 
-## Lessons Learned
-1. **Sensor Placement Matters:**  
-   Sap flow can vary around the circumference of a stem; consistent placement and replication improve accuracy.
-2. **Species Differences:**  
-   Even closely related species can exhibit different xylem anatomy, affecting sensor calibration and results.
-3. **Combine Methods for Validation:**  
-   Cross-validation with independent approaches (e.g., lysimeters, eddy covariance) enhances confidence in ET estimates.
 
 ## References
 - Granier, A. (1987). *Evaluation of transpiration in a Douglas-fir stand by means of sap flow measurements*. **Tree Physiology, 3(4)**, 309–320. [doi:10.1093/treephys/3.4.309](https://doi.org/10.1093/treephys/3.4.309)
@@ -71,7 +64,5 @@ Sap flow measurements quantify the rate at which water moves through a plant’s
 
 ## Related Notes
 - [Measurement Methods for ET](Measurement_Methods_for_ET.md)
-- [Ecological Perspective of ET](Ecological_Perspective_of_ET.md)
-- [Hydrologic Perspective of ET](Hydrologic_Perspective_of_ET.md)
 
 *This note is part of a broader collection on ET measurement techniques, offering a detailed look at sap flow methods for assessing plant water use and transpiration.*
