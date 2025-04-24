@@ -1,5 +1,10 @@
+title: Models Process-based
+date: 2025-03-09
+tags: [process, model, hydrology]
+aliases: [Hydrologic Model]
+summary: >
+  Describes process based hydrologic models
 
-List and papers
 ## What Does "Process-based" Mean?
 
   In a physically-based model, representation involves explicit equations or modules accounting for phenomena such as snow accumulation/melt, canopy interception, litter layers, and vegetation disturbance.
@@ -16,7 +21,7 @@ List and papers
 * Models vary in complexity of process representation and land surface conceptual models
 	
 
-## [[Calibrating, Evaluation Process-Based Hydrologic models]]
+## [[Models - Calibrating, Evaluation Process-Based Hydrologic models]]
 
 
 ## Examples of Process Based Hydrologic Models

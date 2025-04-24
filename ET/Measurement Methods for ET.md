@@ -15,7 +15,7 @@ Evapotranspiration (ET) can be measured using a range of methods that operate at
 
 ### Tree/Plot Scale
 
-# [[Sap Flow Measurements|Sap Flow]]
+# [[Measurements - Sap flow|Sap Flow]]
 
 ## Pan Evaporation
 - **Description:**  

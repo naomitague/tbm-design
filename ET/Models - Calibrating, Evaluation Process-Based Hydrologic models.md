@@ -1,3 +1,21 @@
+
+title: Calibrating and Evaluating 
+date: 2025-03-09
+tags:
+  - hydrologic
+  - modeling
+  - process-based
+  - technique
+  - calibration
+  - climate
+  - evaluation
+  - uncertainty
+
+aliases:
+  - Hydrology Process Models
+summary: |
+  This note provides an overview of process-based models hydrology and some techniques for calibrating and evaluating
+---
 ## Evaluation Data Sets
 	* Primarily Streamflow
 		* performance mesures (papers on which work)*

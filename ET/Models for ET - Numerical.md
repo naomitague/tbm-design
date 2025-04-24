@@ -1,9 +1,14 @@
 ---
 title: Process Based Models for ET
 date: 2025-03-09
-tags: [ET, modeling, energy balance, process-based models]
-aliases: [ET Process Models]
-summary: >
+tags:
+  - ET
+  - modeling
+  - energy
+  - models
+aliases:
+  - ET Process Models
+summary: |
   This note provides an overview of process‐based models for evapotranspiration (ET), emphasizing their energy balance focus, key inputs, limitations, and examples such as VIC and RHESSys.
 ---
 While physics of evaporation are well-understood; estimating the variables involved always require simplifications - the appropriate simplification depends on application (location, scale, time)
@@ -24,13 +29,13 @@ Appropriate model depends on Time/Space Scale and whether partitioning between E
 
 ## Basic models
 	
-- [[Budyko Curve|Budyko ET]]
+- [[Emprical Model - Budyko Curve|Budyko ET]]
 - Thornwaite
 -  Penman/ Penman Monteith
 - Machine Learning (non-physically based)
 
 ## ET from Hydrologic Models
-[[Processbased Hydrologic models]]
+[[Models Process-based Hydrologic models]]
 
 	
 	Evaluation of ET in hydrologic modeling context

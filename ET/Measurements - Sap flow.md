@@ -1,9 +1,18 @@
 ---
 title: Sap Flow Measurements
 date: 2025-03-09
-tags: [ET, sap flow, measurement techniques, plant water use]
-aliases: [Sap Flow, Sap Flux]
-summary: >
+tags:
+  - ET
+  - sap
+  - measurement
+  - techniques
+  - plant
+  - water
+  - use
+aliases:
+  - Sap Flow
+  - Sap Flux
+summary: |
   This note explains how sap flow measurements are used to assess plant water use and transpiration, discussing the underlying principles, strengths and weaknesses, temporal and spatial considerations, and broad-scale implications.
 ---
 ## Overview

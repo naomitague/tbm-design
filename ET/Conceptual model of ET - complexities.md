@@ -1,4 +1,20 @@
-## Atmosphere
+
+
+---
+title: Expanding on simple conceptual models of ET
+date: 2025-03-09
+tags:
+  - ET
+  - modeling
+  - energy
+  - models
+  - storage
+aliases:
+  - ET Process Models
+summary: |
+  
+
+# Atmosphere
 Timing of Precipitation
 - **Seasonal and Event-Based Influences:**  
   The timing of precipitation as well as magnitdue impact disconnect between energy-water availability (as mediated by storage), can also impact interception loss and infiltration

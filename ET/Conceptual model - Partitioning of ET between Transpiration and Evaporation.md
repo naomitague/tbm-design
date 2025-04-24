@@ -1,9 +1,18 @@
 ---
 title: Ecological Perspective of ET
 date: 2025-03-09
-tags: [ET, ecology, plant dynamics, transpiration, evaporation]
-aliases: [ET Ecology, Plant Water Use]
-summary: >
+tags:
+  - ET
+  - ecology
+  - plant
+  - dynamics
+  - transpiration
+  - evaporation
+  - conceptual
+aliases:
+  - ET Ecology
+  - Plant Water Use
+summary: |
   This note examines the ecological aspects of evapotranspiration (ET) with an emphasis on how evaporation and transpiration are partitioned in ecosystems, and the influence of plant dynamics and species-specific traits on water use.
 ---
 
