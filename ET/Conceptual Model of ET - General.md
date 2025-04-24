@@ -4,20 +4,18 @@ date: 2025-03-09
 tags:
   - ET
   - energy
-  - balance
   - water
   - storage
   - plant
-  - growth
   - precipitation
-  - timing
+  - conceptual
 aliases:
   - ET Fundamentals
 summary: This note introduces the basic understanding of evapotranspiration (ET) as an exchange of water and energy when liquid water on a surface (land or ocean) becomes gaseous form in the atmosphere  - How much ET usually depends on whether energy or water availably is limiting along with the capacity of the atmosphere to hold water - A basic conceptual model covers the drivers of water availability (precipitation and storage) and energy availability (atmospheric and surface conditions) as well as the role played by plants
 ---
-
+	``
 ## Overview
-Evapotranspiration (definitions) - LLM - 
+
 ## Energy versus Water Limitation
 
 - **Energy  Drivers:**  
@@ -30,10 +28,6 @@ Evapotranspiration (definitions) - LLM -
 
 [[Conceptual Diagram ET simple.png]]
 
-## Simple to complex conceptual models
-
-Simple models (#Budyko as conceptual) summarize water availability as simply precipitation; ignore diffusion drivers, and storage/redistribution and for energy assume simple  correlates of energy availability. (such as air tempreature) They have mostly been successful at explaining large scalae (regional to global ) variation in annual ET
-
-Complexity in conceptual model is needed to capture finer scale space-time variation in ET and/or understand drivers of change (includng  changing land surface, vegetation, climate, storage),...
+## [[Conceptual model of ET - complexities]]
 
 
